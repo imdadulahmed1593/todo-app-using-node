@@ -1,0 +1,4 @@
+1.Open the folder in vs code.
+2.Run the terminal
+3. write "node app.js" in the terminal
+4.Then open "localhost:3000" on the browser
